@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+"width=device-width, initial-scale=1.0">
+    <title>Animation Showcase</title>
+    <link rel="stylesheet" href=
+"https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <link rel="stylesheet" 
+          href="style.css">
+</head>
+
+<body class="bg-gradient-to-r
+             from-green-400 to-green-200 
+             min-h-screen flex items-center
+             justify-center">
+    <div class="flex justify-center gap-16">
+        <!-- Circular progress bar -->
+        <div class="text-center">
+            <h2 class="text-2xl font-semibold
+                       text-white mb-4">
+                Circular Progress Bar
+            </h2>
+            <div id="progressContainer"
+                 class="bg-white shadow-xl
+                       rounded-full w-40 h-40 
+                       flex items-center justify-center">
+                <div id="progressCircle"
+                     class="bg-white rounded-full w-24 h-24 flex 
+                        items-center justify-center shadow-inner">
+                    <div id="progressText" 
+                         class="text-2xl font-bold">
+                        0%
+                    </div>
+                </div>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 version="1.1" width="160px" 
+                height="160px" class="mt-4">
+                <defs>
+                    <linearGradient id="GradientColor">
+                        <stop id="gradientStart" 
+                              offset="0%" 
+                              stop-color="#e91e63" />
+                        <stop id="gradientEnd"
+                              offset="100%"
+                              stop-color="#673ab7" />
+                    </linearGradient>
+                </defs>
+                <circle id="progressBar" 
+                        cx="80" cy="80"
+                        r="70" 
+                        stroke-linecap="round" />
+            </svg>
+        </div>
+        <!-- filling bowl animation -->
+        <div class="text-center">
+            <h2 class="text-2xl font-semibold
+                       text-white mb-4">
+                Filling Bowl Animation
+            </h2>
+            <div id="waterContainer" 
+                 class="bg-gradient-to-t
+                        from-pink-500
+                        to-purple-700">
+                <div id="water"
+                     class="h-full bg-white"></div>
+                <div id="waterText">Water Bowl</div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px;
+    margin:20px;
+}
+
+.list-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.list-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid rgba(125, 55, 70, 0.5);
+    padding: 10px;
+    background-color: rgb(200, 95, 164);
+}
+
+.post-item p{
+    font-size: 18px;
+    color: #fff;
+}
