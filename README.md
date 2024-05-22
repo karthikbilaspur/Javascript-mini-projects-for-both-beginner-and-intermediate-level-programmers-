@@ -1,5 +1,3 @@
-Some of the codes is taken from various open source and other websites the codes belong to their respective owners only. 
-My intendtion was to combine all these scattered codes so fellow coders, progarmers and developers can have access to these codes 
-Thus letting them grow their coding prowess at same time making sure they dont have to waste their time searching the net for basic codes 
- Anybody can access these codes and can do the improvement if they want. 
- This is my small effort in making code easier to access for everyone 
+Build these awesome beginner and intermediate projects (combining HTML, CSS and JS) to showcase how you can play, learn and code with JS, HTML, and CSS. There is so much to do with when you combine HTML, CSS, JS that the sky is the limit 
+Practice, Learning and Playing with code are the ultimate secrets to getting better 
+ Most updates will be following soon as I will be adding them as well in this mini project of mine 
