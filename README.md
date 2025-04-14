@@ -1,3 +1,3 @@
-Build these awesome beginner and intermediate projects (combining HTML, CSS and JS) to showcase how you can play, learn and code with JS, HTML, and CSS. There is so much to do with when you combine HTML, CSS, JS that the sky is the limit 
-Practice, Learning and Playing with code are the ultimate secrets to getting better 
- Most updates will be following soon as I will be adding them as well in this mini project of mine 
+"Unleash your creativity with these awesome beginner and intermediate projects that combine the power of HTML, CSS, and JS! 
+The possibilities are endless when you bring these three technologies together, and the best way to get better is to practice, learn, and code. Whether you're just starting out or looking to level up your skills.
+These projects will help you showcase your abilities and take your coding to new heights. Stay tuned for more updates as I continue to add new projects to this collection!"
